@@ -28,10 +28,9 @@ I’m a **Data Engineer** passionate about building scalable data systems, desig
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 📂 [Portfolio](#) *(if available)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mounika-pasupuleti-0a944b217/)  
 - ✉️ mounika32389@gmail.com  
-- 🌐 Location: United States 🇺🇸
+- 🌐 Location: United States
 
 ---
 
