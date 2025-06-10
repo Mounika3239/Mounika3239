@@ -19,10 +19,10 @@ I’m a **Data Engineer** passionate about building scalable data systems, desig
 ## 🎓 Education
 
 🎓 **University at Buffalo – SUNY**  
-*MS in Data Science* · 2024–2025 · GPA: 3.6
+*MS in Data Science* · 2024–2025 
 
 🎓 **Sasi Institute of Technology & Engineering**  
-*B.Tech in Information Technology* · 2018–2022 · GPA: 8.5
+*B.Tech in Information Technology* · 2018–2022 
 
 ---
 
