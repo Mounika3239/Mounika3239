@@ -16,22 +16,6 @@ I’m a **Data Engineer** passionate about building scalable data systems, desig
 
 ---
 
-## 🚀 Projects
-
-- 🎤 **Celeb App** – Real-time interview engagement platform  
-  Built real-time ETL pipelines (Kafka, Airflow, PySpark, dbt) and dashboards to support 100K+ users and 10M+ events.
-
-- 🎧 **Spotify Global Trends** – End-to-end cloud ETL pipeline  
-  Built using AWS Lambda, Snowflake, and Power BI for real-time music trend insights.
-
-- 🩺 **GlucoPredict** – Diabetes risk prediction  
-  Flask + React web app using XGBoost and Gradient Boosting for personalized health predictions.
-
-- 🛒 **E-Commerce Data Analytics**  
-  PostgreSQL system handling 1M+ transactions, with strategic dashboards built in Tableau.
-
----
-
 ## 🎓 Education
 
 🎓 **University at Buffalo – SUNY**  
