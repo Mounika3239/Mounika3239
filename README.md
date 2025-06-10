@@ -1,6 +1,5 @@
-## Hi there 👋
-
 # 👋 Hi there, I’m Mounika Pasupuleti
+
 
 I’m a **Data Engineer** passionate about building scalable data systems, designing cloud-based ETL pipelines, and turning raw data into meaningful insights.
 
