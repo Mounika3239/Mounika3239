@@ -7,12 +7,12 @@ I’m a **Data Engineer** passionate about building scalable data systems, desig
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, PySpark  
-- **Data Engineering:** Apache Kafka, Apache Airflow, Apache Spark, dbt, Snowflake, Amazon Redshift, AWS Glue, Amazon S3  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-- **Cloud & DevOps:** AWS (Lambda, ECS, S3, CloudWatch), Docker, Git, GitHub Actions  
-- **Analytics & BI:** Power BI, Tableau, Streamlit, Pandas, NumPy, Matplotlib, Seaborn  
-- **ML/NLP:** Scikit-learn, XGBoost, Hugging Face Transformers, NLTK
+- **Big Data Technologies:** Apache Kafka, Apache Airflow, Hadoop, PySpark, dbt, Data Warehousing, Snowflake, Databricks, Data    Lake, Amazon Redshift 
+- **Databases:** MySQL, PostgreSQL, SQLite, Firebase, MongoDB 
+- **Programming Languages:** Python, SQL, R, Java, C, Data Structures 
+- **Machine Learning & NLP Libraries:** Scikit-learn, TensorFlow, PyTorch, Hugging Face, NLTK
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Excel, Tableau, Power BI, Streamlit
+- **Cloud & DevOps Tools:** AWS (EC2, Lambda, S3, ECS, EKS, Glue, Kinesis, Athena, CloudWatch, IAM, Firehose, EMR, VPC, Route 53, CloudFront), Docker, Git, Jira, CI/CD, Terraform
 
 ---
 
