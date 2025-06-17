@@ -21,9 +21,6 @@ I’m a **Data Engineer** passionate about building scalable data systems, desig
 🎓 **University at Buffalo – SUNY**  
 *MS in Data Science* · 2024–2025 
 
-🎓 **Sasi Institute of Technology & Engineering**  
-*B.Tech in Information Technology* · 2018–2022 
-
 ---
 
 ## 📫 Let’s Connect
